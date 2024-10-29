@@ -1,4 +1,12 @@
-## Hi there 👋
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+This is the place where I opensource stuff and break things :rofl:
+
+- 🔭 &nbsp;I’m currently working on something cool :wink:
+- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python/Java or React/Express/Flask/Spring
+- 
+[![My Skills](https://skillicons.dev/icons?i=aws,flutter,js,docker,elasticsearch,postgres,terraform,figma,jquery,mongodb,html,css,java,py,flask,react,spring)](https://skillicons.dev)
+
+[![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshaykumar08&theme=radical)]
 
 <!--
 **AkshayKumar08/akshaykumar08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
